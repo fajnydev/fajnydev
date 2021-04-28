@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+
 <!--
 **wrzosdev/wrzosdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
